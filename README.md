@@ -12,7 +12,7 @@ git clone https://github.com/lordvein/swisstronic-mint-erc20-token.git
 ```
 
 ```
-cd swisstronik-erc20-mint-token
+cd swisstronic-mint-erc20-token
 ```
 
 ### 2. Install Dependency
